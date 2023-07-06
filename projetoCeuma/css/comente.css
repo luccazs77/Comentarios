@@ -1,0 +1,50 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: aqua;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    ;
+}
+
+main{
+    margin-top: 300px;
+}
+
+input{
+    width: 500px;
+    height: 200px;
+    margin-top: 20px;
+    border-radius: 15px;
+}
+
+h2{
+    margin-top: 15px;
+}
+.tg{
+    display: flex;
+    justify-content: space-between;
+    border-radius: 15px;
+    margin-top: 15px;
+
+
+}
+.tg span{
+    width: 100px;
+    height: 50px;
+    padding: 15px;
+    margin: 15px;
+    text-align: center;
+	font-size: 17px;
+    border-radius: 15px;
+   
+    background-color: rgb(208, 192, 192);
+    
+    
+}
+
